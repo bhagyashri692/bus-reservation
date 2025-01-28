@@ -1,0 +1,6 @@
+To make a bus reservation, you'll need to provide the following information: 
+Passenger details: The name, age, and other details of the passenger
+Travel dates and times: The date and time of travel, including the starting and destination locations
+Bus details: The bus number and seat number
+Payment information: The payment method and any applicable fees
+You can make bus reservations online using a website or app. Some systems also allow you to manage your bookings and check in online.
